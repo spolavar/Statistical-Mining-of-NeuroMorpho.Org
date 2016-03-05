@@ -1,0 +1,2 @@
+# Statistical-Mining-of-NeuroMorpho.Org
+This repository contains several methods written in R to perform morphological feature-based analysis of NeuroMorpho.Org, Principal Component Analysis, Cluster analysis, 2D, 3D plots depicting similarity computed by Z-score etc., is run on largest data set of neuronal reconstructions. The feature data is ingested from L-Measure analytical tool. All the results and figures produced from this code is published in Polavaram et al., Frontiers of Neuroanatomy (2014).
